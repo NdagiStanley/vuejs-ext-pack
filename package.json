@@ -1,28 +1,33 @@
 {
     "name": "vuejs-ext-pack",
     "displayName": "VueJS Ext Pack",
-    "description": "",
+    "description": "An extension pack suitable if you use VueJS 3 - By NdagiStanley",
     "version": "0.0.1",
+    "publisher": "ndagistanley",
     "engines": {
         "vscode": "^1.65.0"
     },
     "categories": [
         "Extension Packs"
     ],
-    "extensionPack": [ 
-        "christian-kohler.path-intellisense", 
-        "dannyconnell.split-html-attributes", 
-        "dbaeumer.vscode-eslint", 
-        "eamodio.gitlens", 
-        "EditorConfig.EditorConfig", 
-        "esbenp.prettier-vscode", 
-        "formulahendry.auto-close-tag", 
-        "formulahendry.auto-rename-tag", 
-        "GitHub.copilot", 
-        "johnsoncodehk.volar", 
-        "mrmlnc.vscode-duplicate", 
-        "PKief.material-icon-theme", 
-        "sibiraj-s.vscode-scss-formatter", 
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/NdagiStanley/vuejs-ext-pack"
+    },
+    "extensionPack": [
+        "christian-kohler.path-intellisense",
+        "dannyconnell.split-html-attributes",
+        "dbaeumer.vscode-eslint",
+        "eamodio.gitlens",
+        "EditorConfig.EditorConfig",
+        "esbenp.prettier-vscode",
+        "formulahendry.auto-close-tag",
+        "formulahendry.auto-rename-tag",
+        "GitHub.copilot",
+        "johnsoncodehk.volar",
+        "mrmlnc.vscode-duplicate",
+        "PKief.material-icon-theme",
+        "sibiraj-s.vscode-scss-formatter",
         "Wscats.vue"
     ]
 }
