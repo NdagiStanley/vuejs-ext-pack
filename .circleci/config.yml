@@ -5,4 +5,4 @@ jobs:
       - image: cimg/node:17.8.0
     steps:
       - checkout
-      - run: npm install -g vsce && vsce publish
+      - run: npm install -g vsce && vsce publish -p $PAT
