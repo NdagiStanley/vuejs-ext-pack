@@ -1,8 +1,8 @@
 {
     "name": "vuejs-ext-pack",
     "displayName": "VueJS Ext Pack",
-    "description": "An extension pack suitable if you use VueJS 3 - By NdagiStanley",
-    "version": "0.0.1",
+    "description": "An extension pack suitable if you use VueJS 3",
+    "version": "0.0.2",
     "publisher": "ndagistanley",
     "engines": {
         "vscode": "^1.65.0"
