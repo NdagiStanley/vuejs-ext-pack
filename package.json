@@ -2,7 +2,7 @@
     "name": "vuejs-ext-pack",
     "displayName": "VueJS Ext Pack",
     "description": "An extension pack suitable if you use VueJS 3",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "publisher": "ndagistanley",
     "engines": {
         "vscode": "^1.65.0"
@@ -24,6 +24,8 @@
         "johnsoncodehk.volar",
         "mrmlnc.vscode-duplicate",
         "sibiraj-s.vscode-scss-formatter",
-        "Wscats.vue"
+        "Wscats.vue",
+        "sdras.vue-vscode-snippets",
+        "abdelaziz18003.quasar-snippets"
     ]
 }
