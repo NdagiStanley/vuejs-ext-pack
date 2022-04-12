@@ -10,3 +10,5 @@ An extension pack suitable if you use VueJS 3.
 Included is an extension that I use with [Quasar](https://quasar.dev):
 
 - [Quasar Snippets](https://marketplace.visualstudio.com/items?itemName=abdelaziz18003.quasar-snippets)
+
+The `vsix` files can be downloaded [here](https://marketplace.visualstudio.com/items?itemName=NdagiStanley.vuejs-ext-pack&ssr=false#version-history)
