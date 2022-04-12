@@ -2,7 +2,7 @@
     "name": "vuejs-ext-pack",
     "displayName": "VueJS Ext Pack",
     "description": "An extension pack suitable if you use VueJS 3",
-    "version": "0.0.6",
+    "version": "0.0.7",
     "publisher": "ndagistanley",
     "engines": {
         "vscode": "^1.65.0"
@@ -14,6 +14,7 @@
         "type": "git",
         "url": "https://github.com/NdagiStanley/vuejs-ext-pack"
     },
+    "icon": "images/icon.png",
     "extensionPack": [
         "christian-kohler.path-intellisense",
         "dannyconnell.split-html-attributes",
