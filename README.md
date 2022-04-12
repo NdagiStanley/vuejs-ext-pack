@@ -7,8 +7,6 @@
 
 An extension pack suitable if you use VueJS 3.
 
-<!-- TODO: Give details of extensions as in https://marketplace.visualstudio.com/items?itemName=NdagiStanley.python-ext-pack -->
-
 Included is an extension that I use with [Quasar](https://quasar.dev):
 
 - [Quasar Snippets](https://marketplace.visualstudio.com/items?itemName=abdelaziz18003.quasar-snippets)
