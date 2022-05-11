@@ -2,7 +2,7 @@
     "name": "vuejs-ext-pack",
     "displayName": "VueJS Ext Pack",
     "description": "An extension pack suitable if you use VueJS 3",
-    "version": "0.0.7",
+    "version": "1.0.0",
     "publisher": "ndagistanley",
     "engines": {
         "vscode": "^1.65.0"
@@ -22,7 +22,7 @@
         "esbenp.prettier-vscode",
         "formulahendry.auto-close-tag",
         "formulahendry.auto-rename-tag",
-        "johnsoncodehk.volar",
+        "Vue.volar",
         "mrmlnc.vscode-duplicate",
         "sibiraj-s.vscode-scss-formatter",
         "Wscats.vue",
