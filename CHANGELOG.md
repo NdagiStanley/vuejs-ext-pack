@@ -16,9 +16,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Fixed
 -->
 
-## [1.0.0] - 2023-01-27
+## [1.0.2] - 2023-01-27
+### Changed
+- CHANGELOG
+
+## [1.0.1] - 2023-01-27
 ### Added
 - 2 extensions
+- extension manifest
 
 ## [1.0.0] - 2022-05-11
 ### Changed
@@ -63,7 +68,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - .editorconfig
 - License
 
-[1.0.1]: https://github.com/NdagiStanley/vuejs-ext-pack/compare/v1.0.0...HEAD
+<!-- [Unreleased]: https://github.com/NdagiStanley/remote-ext-pack/compare/v1.0.2...HEAD -->
+[1.0.2]: https://github.com/NdagiStanley/vuejs-ext-pack/compare/v1.0.1...v1.0.2
+[1.0.1]: https://github.com/NdagiStanley/vuejs-ext-pack/compare/v1.0.0...v1.0.1
 [1.0.0]: https://github.com/NdagiStanley/vuejs-ext-pack/compare/v0.0.7...v1.0.0
 [0.0.7]: https://github.com/NdagiStanley/vuejs-ext-pack/compare/v0.0.6...v0.0.7
 [0.0.6]: https://github.com/NdagiStanley/vuejs-ext-pack/compare/v0.0.5...v0.0.6

@@ -27,7 +27,7 @@ The `vsix` files can be downloaded [here](https://marketplace.visualstudio.com/i
 Delete tags:
 
 - local tag - `git tag -d <tag name>`
-- remote tag - `git push --delete origin <tag name>`
+- remote tag - `git push -d origin <tag name>`
 
 Unpublish:
 
