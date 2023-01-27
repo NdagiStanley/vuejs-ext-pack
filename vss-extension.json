@@ -1,0 +1,41 @@
+{
+    "manifestVersion": 1,
+    "id": "vuejs-ext-pack",
+    "version": "1.0.1",
+    "name": "VueJS Ext Pack",
+    "publisher": "ndagistanley",
+    "targets": [
+        {
+            "id": "Microsoft.VisualStudio.Services"
+        }
+    ],
+    "icons": {
+        "default": "images/icon.png"
+    },
+    "branding": {
+        "color": "rgb(00, 80, 80)",
+        "theme": "dark"
+    },
+    "badges": [
+        {
+            "href": "https://marketplace.visualstudio.com/items?itemName=NdagiStanley.vuejs-ext-pack",
+            "uri": "https://vsmarketplacebadges.dev/version/NdagiStanley.vuejs-ext-pack.svg",
+            "description": "Version"
+        },
+        {
+            "href": "https://marketplace.visualstudio.com/items?itemName=NdagiStanley.vuejs-ext-pack&ssr=false#review-details",
+            "uri": "https://vsmarketplacebadges.dev/rating-star/NdagiStanley.vuejs-ext-pack.svg",
+            "description": "Stars"
+        },
+        {
+            "href": "https://marketplace.visualstudio.com/items?itemName=NdagiStanley.vuejs-ext-pack",
+            "uri": "https://vsmarketplacebadges.dev/downloads/NdagiStanley.vuejs-ext-pack.svg",
+            "description": "Downloads"
+        },
+        {
+            "href": "https://marketplace.visualstudio.com/items?itemName=NdagiStanley.vuejs-ext-pack",
+            "uri": "https://vsmarketplacebadges.dev/installs/NdagiStanley.vuejs-ext-pack.svg",
+            "description": "Installs"
+        }
+    ]
+}

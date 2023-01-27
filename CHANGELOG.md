@@ -16,6 +16,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Fixed
 -->
 
+## [1.0.0] - 2023-01-27
+### Added
+- 2 extensions
+
 ## [1.0.0] - 2022-05-11
 ### Changed
 - Extension name - Volar
@@ -59,7 +63,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - .editorconfig
 - License
 
-[1.0.0]: https://github.com/NdagiStanley/vuejs-ext-pack/compare/v0.0.7...HEAD
+[1.0.1]: https://github.com/NdagiStanley/vuejs-ext-pack/compare/v1.0.0...HEAD
+[1.0.0]: https://github.com/NdagiStanley/vuejs-ext-pack/compare/v0.0.7...v1.0.0
 [0.0.7]: https://github.com/NdagiStanley/vuejs-ext-pack/compare/v0.0.6...v0.0.7
 [0.0.6]: https://github.com/NdagiStanley/vuejs-ext-pack/compare/v0.0.5...v0.0.6
 [0.0.5]: https://github.com/NdagiStanley/vuejs-ext-pack/compare/v0.0.4...v0.0.5
