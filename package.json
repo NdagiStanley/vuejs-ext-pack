@@ -23,6 +23,8 @@
         "formulahendry.auto-close-tag",
         "formulahendry.auto-rename-tag",
         "Vue.volar",
+        "CodeCoaching.quasar-docs",
+        "Vue.vscode-typescript-vue-plugin",
         "mrmlnc.vscode-duplicate",
         "sibiraj-s.vscode-scss-formatter",
         "Wscats.vue",
